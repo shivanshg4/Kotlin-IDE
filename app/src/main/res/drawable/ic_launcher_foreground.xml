@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Bracket '{' in Emerald Green #2EA66B -->
+    <path
+        android:fillColor="#2EA66B"
+        android:pathData="M38,36 C38,33 36,31 32,31 L32,35 C34,35 34,36 34,38 L34,48 C34,50 33,52 30,53 C33,54 34,56 34,58 L34,68 C34,70 34,71 32,71 L32,75 C36,75 38,73 38,70 L38,60 C38,58 39,57 41,56 L41,50 C39,49 38,48 38,46 Z" />
+
+    <!-- Amber Play Triangle '▶' in Amber #F0A030 -->
+    <path
+        android:fillColor="#F0A030"
+        android:pathData="M48,42 L64,53 L48,64 Z" />
+
+    <!-- Right Bracket '}' in Emerald Green #2EA66B -->
+    <path
+        android:fillColor="#2EA66B"
+        android:pathData="M70,36 C70,33 72,31 76,31 L76,35 C74,35 74,36 74,38 L74,48 C74,50 75,52 78,53 C75,54 74,56 74,58 L74,68 C74,70 74,71 76,71 L76,75 C72,75 70,73 70,70 L70,60 C70,58 69,57 67,56 L67,50 C69,49 70,48 70,46 Z" />
+</vector>

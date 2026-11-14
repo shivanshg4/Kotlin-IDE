@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.KtLabKotlinOfflineIDE" parent="Theme.MaterialComponents.Light" />
+</resources>
